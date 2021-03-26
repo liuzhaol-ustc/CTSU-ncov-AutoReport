@@ -108,7 +108,7 @@
         'now_city'               => '340100',
         'gps_city'               => '',
         'now_detail'             => '',
-        'is_inschool'            => '2',
+        'is_inschool'            => '6',
         'body_condition'         => '1',
         'body_condition_detail'  => '',
         'now_status'             => '1',
